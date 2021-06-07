@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Talha Anwar
 
-<img src="https://raw.githubusercontent.com/talhaanwarch/talhaanwarch/main/git%20cover.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://raw.githubusercontent.com/talhaanwarch/talhaanwarch/main/gitcover.png" alt="Talha Anwar Github Profile ">
 
 ## Who Am I?
 I am a biomedical engineer and a data scientist.  

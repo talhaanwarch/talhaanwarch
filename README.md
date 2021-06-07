@@ -7,9 +7,12 @@ I am a biomedical engineer and a data scientist.
 I also do freelancing at [fiverr.com](https://www.fiverr.com/chtalhaanwar).  
 I have passion to implement machine learning and deep learning in biomedical engineer field.  
 
+## My Github Activity
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=talhaanwarch&show_icons=true)
 
 
-## Competetions 
+
+## Competetions I Participated 
 ### Natural Language Processing
 **[OffenseEval2020](https://github.com/talhaanwarch/OffenseEval2020)**: Classification of offensive language in Arabic, Turkish, Greek, Danish and English language.  
 **[PAN2021](https://github.com/talhaanwarch/Profiling-Hate-Speech-Spreaders-on-Twitter)**: Profiling Hate Speech Spreaders on Twitter in English and Spanish language.  
@@ -36,5 +39,4 @@ I have passion to implement machine learning and deep learning in biomedical eng
 - 🤔 I’m looking for help with volumetric medical image segmentation
 - 💬 Ask me about machine learning and deep learning
 - 📫 How to reach me: Contact me on [LinkedIn](https://www.linkedin.com/in/chtalhaanwar)
-
 

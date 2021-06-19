@@ -4,7 +4,6 @@
 
 ## Who Am I?
 I am a biomedical engineer and a data scientist.  
-I also do freelancing at [fiverr.com](https://www.fiverr.com/chtalhaanwar).  
 I have passion to implement machine learning and deep learning in biomedical engineer field.  
 
 ## My Github Activity

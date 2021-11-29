@@ -20,6 +20,7 @@ I have passion to implement machine learning and deep learning in biomedical eng
 **[ODIR2019](https://github.com/talhaanwarch/ODIR2019)**: Multi-label classfication challenge to diangose both eye's disease simultaneously.  
 **[RIADD-ISBI-2021](https://github.com/talhaanwarch/RIADD-ISBI-2021)** Multi-label classfication challenge to diangose eye disorder upto 35 classes.  
 **[ISIC19](https://github.com/talhaanwarch/ISIC2K19)** Skin cancer identification. 
+**[Chest XR COVID-19]** Covid Diagnosis from chest Xray. Got 18th position.  
 
 
 ## Publications
@@ -28,11 +29,13 @@ I have passion to implement machine learning and deep learning in biomedical eng
 * Citrus Plant Disease Identification using Deep Learning with Multiple Transfer Learning Approaches [link](https://www.hpej.net/journals/index.php/pakjet/article/view/439)
 * Deep learning based diagnosis of COVID-19 using chest CT-scan images [link](https://ieeexplore.ieee.org/document/9318212)
 * Effect of Image Augmentation on ECG Image Classification using Deep Learning [link](https://ieeexplore.ieee.org/document/9445258)
-* Beef quality assessment using AutoML (accepted at Majicc21)
+* Beef quality assessment using AutoML [link](https://ieeexplore.ieee.org/document/9526256)
+* COVID19 Diagnosis using AutoML from 3D CT scans [link](https://ieeexplore.ieee.org/document/9607702)
+
 
 # More about me?
 
-- 🔭 I’m currently working on ICCV 2021 Workshop: MIA-COV19D
+- 🔭 I’m currently working on Covid-19 Infection Percentage Estimation  
 - 🌱 I’m currently learning frontend devolopment basics
 - 👯 I’m looking to collaborate on writing research papers and doing data science competetions
 - 🤔 I’m looking for help with volumetric medical image segmentation

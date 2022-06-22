@@ -2,15 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/talhaanwarch/talhaanwarch/main/gitcover.png" alt="Talha Anwar Github Profile ">
 
-## Who Am I?
-I am a biomedical engineer and a data scientist.  
-I have passion to implement machine learning and deep learning in biomedical engineer field.  
-I am also working on youtube channels where i discuss adavance deep learning things.   
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCaMjFHny5hYsVzoRZRXNO5Q?style=social)
-
-## My Github Activity
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=talhaanwarch&show_icons=true)
-
 ## Frameworks I worked with  
   ### ML/DL Framework
 <a href="https://pytorch.org/" target="_blank"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Pytorch"/> </a>
@@ -31,6 +22,7 @@ I am also working on youtube channels where i discuss adavance deep learning thi
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
 <a href="https://www.selenium.dev/" target="_blank"> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" alt="selenium"/></a>
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCaMjFHny5hYsVzoRZRXNO5Q?style=social)
         
        
   
@@ -68,3 +60,5 @@ I am also working on youtube channels where i discuss adavance deep learning thi
 
 
 
+## My Github Activity
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=talhaanwarch&show_icons=true)
